@@ -73,8 +73,7 @@ def check_collisions():
 
 
 def main():
-    global game_over
-    score = 0
+    global game_over,score
     while True:
         # Handle events
         # score = 0
