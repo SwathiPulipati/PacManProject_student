@@ -1,6 +1,6 @@
 import pygame
 import sys
-from player import Player
+from cmsc398Wspring2025.PacManProject_student.Pacman import Player
 from ghost import Ghost
 from game_board import GameBoard
 
