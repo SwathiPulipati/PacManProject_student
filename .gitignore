@@ -5,6 +5,9 @@ __pycache__/
 # Logs
 *.log
 
+# ignores environment variables
+.env
+
 # Virtual Environment
 venv/
 
