@@ -57,7 +57,7 @@ class Player:
         # Draw Pac-Man
         pygame.draw.circle(screen, (255, 255, 0), (self.x, self.y), self.radius)
 
-        # Draw mouth based on direction
+        # Draw mouth based on the direction
         if self.direction == "right":
             start_angle = self.mouth_angle
             end_angle = 360 - self.mouth_angle
