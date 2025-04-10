@@ -25,4 +25,3 @@ def test_power_init(power):
     assert power.y == 40
     assert power.radius == 8
     assert power.collected == False
-    
