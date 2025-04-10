@@ -23,7 +23,7 @@ clock = pygame.time.Clock()
 
 # Create game objects
 game_board = GameBoard()
-pacman = pacman(WINDOW_WIDTH // 2, WINDOW_HEIGHT // 2)
+pacman = pacman(WINDOW_WIDTH // 2, WINDOW_HEIGHT // 2) # this line uses a lowercase pacman and I believe it should be Pacman
 ghosts = [
     Ghost(100, 100, GHOST_COLORS[0]),
     Ghost(WINDOW_WIDTH - 100, 100, GHOST_COLORS[1]),
