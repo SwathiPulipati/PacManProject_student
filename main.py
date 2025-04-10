@@ -1,6 +1,6 @@
 import pygame
 import sys
-from cmsc398Wspring2025.pacmanProject_student.pacman import Pacman
+from cmsc398Wspring2025.PacManProject_student.Pacman import Pacman
 from ghost import Ghost
 from game_board import GameBoard
 
@@ -23,7 +23,7 @@ clock = pygame.time.Clock()
 
 # Create game objects
 game_board = GameBoard()
-pacman = pacman(WINDOW_WIDTH // 2, WINDOW_HEIGHT // 2)
+pacman = Pacman(WINDOW_WIDTH // 2, WINDOW_HEIGHT // 2)
 ghosts = [
     Ghost(100, 100, GHOST_COLORS[0]),
     Ghost(WINDOW_WIDTH - 100, 100, GHOST_COLORS[1]),
