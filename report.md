@@ -7,3 +7,8 @@ We all made sure to check our pull requests and merge them to the main branch.
 After testing, Swathi was able to find the bug about the score not displaying in main.
 Another team opened the issue before she was able to, so she refrained.
 Overall, everyone did their part and pulled their weight. 
+
+In part two of the Pacman project, the work was distributed evenly by having Nico and Jeffrey
+working on steps 1 and 2 and having Craig and Swathi work on steps 3 and 4. Everyone's work
+was reviewed and check to make sure we stayed on the same page. Overall, great team effort from
+everyone. 
