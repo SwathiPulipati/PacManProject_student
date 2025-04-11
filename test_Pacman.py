@@ -1,6 +1,6 @@
 import pytest
 import pygame
-from cmsc398Wspring2025.PacManProject_student.Pacman import Pacman
+from Pacman import Pacman
 
 
 @pytest.fixture
