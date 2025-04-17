@@ -1,9 +1,13 @@
-Everyone did their part in implementing their code and pushing it to their branch.  
-- Swathi implemented Ghost
-- Nico implemented Player
-- Craig implemented Item
-- Jeffrey implemented GameBoard
-We all made sure to check our pull requests and merge them to the main branch. 
-After testing, Swathi was able to find the bug about the score not displaying in main.
-Another team opened the issue before she was able to, so she refrained.
-Overall, everyone did their part and pulled their weight. 
+
+PacMan pt 2
+
+Everyone did their part by helping the team in completeing the 4 objectives.  
+- Swathi implemented CI/CD
+- Nico and Renamed components and stopped tracking .env
+- Jeffrey review and appoved PR requests
+- Craig removed .env file from past commits. 
+
+We collaborated using pull request conversations and a groupchat.
+We successfully implemented changed on feature branched first and
+then used PRs to merge. used to the CI/CD file to test incoming changes
+before merging.
